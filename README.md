@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Roberto
-#### A passionate frontend developer from Barcelona
+#### A passionate developer from Barcelona
 
 <!--
 **robert-z/robert-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
