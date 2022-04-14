@@ -1,4 +1,4 @@
-### Hi 👋, I'm Roberto
+# Hi there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm <a href="https://github.com/robert-z" target="_blank">Roberto</a>
 #### A passionate developer from Barcelona
 
 <!--
